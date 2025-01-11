@@ -77,6 +77,4 @@ This dataset provides a comprehensive view of business operations, enabling in-d
 ## Screen Recording
 https://github.com/user-attachments/assets/1637c221-742e-4ca2-bd4d-230c2abacd75
 
-## Acknowledgments
 
-Special thanks to the e-commerce dataset provider and the contributors who helped make this project successful.
